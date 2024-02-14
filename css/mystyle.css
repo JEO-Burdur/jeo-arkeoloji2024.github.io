@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
+/*
+text-decoration: none;
+#7c4dff
+#1c2331
+*/
+body{
+    font-family: 'Roboto', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.footer {
+    background-color: #7c4dff;
+    text-align: center;
+    color: white;
+}
+.copyright {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+}
