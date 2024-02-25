@@ -83,6 +83,16 @@ ul{
 .navbar .nav-item .nav-link:hover::before{
     transform: scale(1);
 }
+#hakkinda{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#proje-takvim {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 /* Amac */
 .amac-area {
     padding-top: 20px;
